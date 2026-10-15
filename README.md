@@ -1,2 +1,2 @@
-# 19ECB232-Operating-Systems
+# 24CSEN2011-Operating-Systems
 
